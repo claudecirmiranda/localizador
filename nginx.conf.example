@@ -1,0 +1,23 @@
+# Exemplo de configuração Nginx para localizador.seudominio.com.br
+# Copie para /etc/nginx/sites-available/ e crie um symlink em sites-enabled/
+# Depois rode: certbot --nginx -d localizador.seudominio.com.br
+
+server {
+    listen 80;
+    server_name localizador.seudominio.com.br;
+
+    location / {
+        proxy_pass http://127.0.0.1:3000;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_cache_bypass $http_upgrade;
+    }
+}
+
+# Depois do certbot, ele adiciona automaticamente o bloco `listen 443 ssl`
+# e o redirecionamento de HTTP para HTTPS.

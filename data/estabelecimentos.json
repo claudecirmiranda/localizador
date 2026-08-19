@@ -1,0 +1,515 @@
+{
+  "estabelecimentos": [
+    {
+      "codigo": 115,
+      "apelido": "Av. Brasília",
+      "endereco": {
+        "logradouro": "Av. Brasília",
+        "numero": "3140",
+        "bairro": "São Benedito",
+        "cidade": "Santa Luzia",
+        "uf": "MG",
+        "cep": "33110-580",
+        "endereco_completo": "Av. Brasília, 3140 - São Benedito, Santa Luzia - MG, 33110-580"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Av. Brasília" }
+    },
+    {
+      "codigo": 143,
+      "apelido": "Venda Nova II",
+      "endereco": {
+        "logradouro": "Rua Sidney Nazareth da Silva",
+        "numero": "73",
+        "bairro": "Maria Helena",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "31680-170",
+        "endereco_completo": "Rua Sidney Nazareth da Silva, 73 - Maria Helena, Belo Horizonte - MG, 31680-170"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Venda Nova II" }
+    },
+    {
+      "codigo": 156,
+      "apelido": "Centerminas",
+      "endereco": {
+        "logradouro": "Av. Pastor Anselmo Silvestre",
+        "numero": "1395",
+        "bairro": "Dom Joaquim",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "31920-012",
+        "endereco_completo": "Av. Pastor Anselmo Silvestre, 1395 - Dom Joaquim, Belo Horizonte - MG, 31920-012"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Centerminas" }
+    },
+    {
+      "codigo": 164,
+      "apelido": "Big Shopping",
+      "endereco": {
+        "logradouro": "Av. João César de Oliveira",
+        "numero": "1275",
+        "bairro": "Eldorado",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": "32315-000",
+        "endereco_completo": "Av. João César de Oliveira, 1275 - Eldorado, Contagem - MG, 32315-000"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Big Shopping" }
+    },
+    {
+      "codigo": 165,
+      "apelido": "Via Shopping",
+      "endereco": {
+        "logradouro": "Av. Afonso Vaz de Melo",
+        "numero": "465",
+        "bairro": "Barreiro",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30640-070",
+        "endereco_completo": "Av. Afonso Vaz de Melo, 465 - Barreiro, Belo Horizonte - MG, 30640-070"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Via Shopping" }
+    },
+    {
+      "codigo": 166,
+      "apelido": "Pampulha",
+      "endereco": {
+        "logradouro": "Avenida Dom Pedro I",
+        "numero": "402",
+        "bairro": "Itapoã",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "31565-010",
+        "endereco_completo": "Avenida Dom Pedro I, 402 - Itapoã, Belo Horizonte - MG, 31565-010"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Pampulha" }
+    },
+    {
+      "codigo": 167,
+      "apelido": "Andradas",
+      "endereco": {
+        "logradouro": "Av. dos Andradas",
+        "numero": "3760",
+        "bairro": "Centro",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30280-020",
+        "endereco_completo": "Av. dos Andradas, 3760 - Centro, Belo Horizonte - MG, 30280-020"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Andradas" }
+    },
+    {
+      "codigo": 168,
+      "apelido": "Castelo II",
+      "endereco": {
+        "logradouro": "Santa Terezinha",
+        "numero": "389",
+        "bairro": null,
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "31365-000",
+        "endereco_completo": "Santa Terezinha, 389 - Belo Horizonte - MG, 31365-000"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Castelo II" }
+    },
+    {
+      "codigo": 169,
+      "apelido": "Cabral",
+      "endereco": {
+        "logradouro": "Av. Severino Ballesteros",
+        "numero": "2950",
+        "bairro": "Ressaca",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": "32145-000",
+        "endereco_completo": "Av. Severino Ballesteros, 2950 - Ressaca, Contagem - MG, 32145-000"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Cabral" }
+    },
+    {
+      "codigo": 289,
+      "apelido": "Dandara",
+      "endereco": {
+        "logradouro": "R. Petrópolis",
+        "numero": "450",
+        "bairro": "Céu Azul",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "33938-439",
+        "endereco_completo": "R. Petrópolis, 450 - Céu Azul, Belo Horizonte - MG, 33938-439"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Dandara" }
+    },
+    {
+      "codigo": 81,
+      "apelido": "Américo Vespúcio",
+      "endereco": {
+        "logradouro": "Av. Américo Vespúcio",
+        "numero": "1271",
+        "bairro": "Parque Riachuelo",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "31230-250",
+        "endereco_completo": "Av. Américo Vespúcio, 1271 - Parque Riachuelo, Belo Horizonte - MG, 31230-250"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Américo Vespúcio" }
+    },
+    {
+      "codigo": 280,
+      "apelido": "Santa Monica II",
+      "endereco": {
+        "logradouro": "R. Érico Veríssimo",
+        "numero": "1556",
+        "bairro": "Santa Monica",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "31535-094",
+        "endereco_completo": "R. Érico Veríssimo, 1556 - Santa Monica, Belo Horizonte - MG, 31535-094"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Santa Monica II" }
+    },
+    {
+      "codigo": 328,
+      "apelido": "N. Sra. Da Conceição",
+      "endereco": {
+        "logradouro": "Rua Avelino Hilário Muniz",
+        "numero": "79",
+        "bairro": "Nossa Senhora da Conceição",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": "32183-455",
+        "endereco_completo": "Rua Avelino Hilário Muniz, nº 79 - Nossa Senhora da Conceição, Contagem - MG, 32183-455"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "N. Sra. Da Conceição" }
+    },
+    {
+      "codigo": 320,
+      "apelido": "Via do Minério",
+      "endereco": {
+        "logradouro": "Av. Dep. Álvaro Antônio",
+        "numero": "447",
+        "bairro": "Indústrias I (Barreiro)",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30610-820",
+        "endereco_completo": "Av. Dep. Álvaro Antônio, 447 - Indústrias I (Barreiro), Belo Horizonte - MG, 30610-820"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Via do Minério" }
+    },
+    {
+      "codigo": 271,
+      "apelido": "Shopping Justinópolis",
+      "endereco": {
+        "logradouro": "Av. Denise Cristina da Rocha",
+        "numero": "857",
+        "bairro": "Guadalajara (Justinópolis)",
+        "cidade": "Ribeirão das Neves",
+        "uf": "MG",
+        "cep": "33900-001",
+        "endereco_completo": "Av. Denise Cristina da Rocha, 857 - Guadalajara (Justinópolis), Ribeirão das Neves - MG, 33900-001"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Shopping Justinópolis" }
+    },
+    {
+      "codigo": 163,
+      "apelido": "Buritis",
+      "endereco": {
+        "logradouro": "R. Henrique Badaró Portugal",
+        "numero": "410",
+        "bairro": "Buritis",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30575-232",
+        "endereco_completo": "R. Henrique Badaró Portugal, 410 - Buritis, Belo Horizonte - MG, 30575-232"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Buritis" }
+    },
+    {
+      "codigo": 295,
+      "apelido": "Barão Homem de Melo",
+      "endereco": {
+        "logradouro": "Av. Barão Homem de Melo",
+        "numero": "2424",
+        "bairro": "Estoril",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30494-080",
+        "endereco_completo": "Av. Barão Homem de Melo, 2424 - Estoril, Belo Horizonte - MG, 30494-080"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Barão Homem de Melo" }
+    },
+    {
+      "codigo": 400,
+      "apelido": "Andradas II",
+      "endereco": {
+        "logradouro": "Av. dos Andradas",
+        "numero": "4000",
+        "bairro": "Pompéia",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30280-020",
+        "endereco_completo": "Av. dos Andradas, 4000 - Pompéia, Belo Horizonte - MG, 30280-020"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Andradas II" }
+    },
+    {
+      "codigo": 29,
+      "apelido": "Nova Lima",
+      "endereco": {
+        "logradouro": "MG-030",
+        "numero": "S/N",
+        "bairro": "Pau Pombo",
+        "cidade": "Nova Lima",
+        "uf": "MG",
+        "cep": "34000-000",
+        "endereco_completo": "MG-030, S/N - Pau Pombo, Nova Lima - MG, 34000-000"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Nova Lima" }
+    },
+    {
+      "codigo": 254,
+      "apelido": "Vale do Sereno",
+      "endereco": {
+        "logradouro": "Rod. Januário Carneiro",
+        "numero": "8760",
+        "bairro": "Vila da Serra",
+        "cidade": "Nova Lima",
+        "uf": "MG",
+        "cep": "34000-000",
+        "endereco_completo": "Rod. Januário Carneiro, 8760 - Vila da Serra, Nova Lima - MG, 34000-000"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Vale do Sereno" }
+    },
+    {
+      "codigo": 216,
+      "apelido": "Buritis II",
+      "endereco": {
+        "logradouro": "Rua Moisés Kalil",
+        "numero": "320",
+        "bairro": "Buritis",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30575-819",
+        "endereco_completo": "Rua Moisés Kalil, 320 - Buritis, Belo Horizonte - MG, 30575-819"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/bh.jpg", "alt": "Buritis II" }
+    },
+    {
+      "codigo": 401,
+      "apelido": "Mercadão da Carne",
+      "endereco": {
+        "logradouro": "Rua Coronel João Camargos",
+        "numero": "32E44",
+        "bairro": "Centro",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Coronel João Camargos, 32E44 - Centro, Contagem - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/mercadaodacarne.jpg", "alt": "Mercadão da Carne" }
+    },
+    {
+      "codigo": 402,
+      "apelido": "Empório Relíquias de Minas",
+      "endereco": {
+        "logradouro": "Rua Lupércio Paixão",
+        "numero": "226",
+        "bairro": "João Paulo II",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Lupércio Paixão, 226 - João Paulo II, Belo Horizonte - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/reliquiademinas.jpg", "alt": "Empório Relíquias de Minas" }
+    },
+    {
+      "codigo": 403,
+      "apelido": "Armazém Catalão",
+      "endereco": {
+        "logradouro": "Rua Rio Verde",
+        "numero": "539",
+        "bairro": "Riacho das Pedras",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Rio Verde, 539 - Riacho das Pedras, Contagem - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/catalao.jpg", "alt": "Armazém Catalão" }
+    },
+    {
+      "codigo": 404,
+      "apelido": "ABC João Paulo II",
+      "endereco": {
+        "logradouro": "R. Antônio Eustáquio Piazza",
+        "numero": "2514",
+        "bairro": "João Paulo II",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "R. Antônio Eustáquio Piazza, 2514 - João Paulo II, Belo Horizonte - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/abcjoaopauloii.jpg", "alt": "ABC João Paulo II" },
+      "_observacao": "Cidade/bairro não vieram na fonte original - inferidos pelo nome do estabelecimento. Validar após geocodificação."
+    },
+    {
+      "codigo": 405,
+      "apelido": "MM Queijos",
+      "endereco": {
+        "logradouro": "Rua Joaquim de Figueiredo",
+        "numero": "92",
+        "bairro": "Barreiro",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Joaquim de Figueiredo, 92 - Barreiro, Belo Horizonte - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/mmqueijos.jpg", "alt": "MM Queijos" }
+    },
+    {
+      "codigo": 406,
+      "apelido": "MM Queijos Doces e Defumados",
+      "endereco": {
+        "logradouro": "Rua Bráulio Gomes Nogueira",
+        "numero": "30",
+        "bairro": "Tirol",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Bráulio Gomes Nogueira, 30 - Tirol, Belo Horizonte - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/mmqueijos.jpg", "alt": "MM Queijos Doces e Defumados" }
+    },
+    {
+      "codigo": 407,
+      "apelido": "Mimosa Laticínios",
+      "endereco": {
+        "logradouro": "Rua Mantiqueira",
+        "numero": "401",
+        "bairro": "Riacho das Pedras",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Mantiqueira, 401 - Riacho das Pedras, Contagem - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/mimosalaticinios.jpg", "alt": "Mimosa Laticínios" }
+    },
+    {
+      "codigo": 408,
+      "apelido": "Mimosa Laticínios 2",
+      "endereco": {
+        "logradouro": "Rua Rio Verde",
+        "numero": "422",
+        "bairro": "Riacho das Pedras",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Rio Verde, 422 - Riacho das Pedras, Contagem - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/mimosalaticinios.jpg", "alt": "Mimosa Laticínios 2" }
+    },
+    {
+      "codigo": 409,
+      "apelido": "Fazendinha das Gerais",
+      "endereco": {
+        "logradouro": "Av. Dois",
+        "numero": "64",
+        "bairro": "Conjunto Água Branca",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Av. Dois, 64 - Conjunto Água Branca, Contagem - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/fazendinhadasgerais.jpg", "alt": "Fazendinha das Gerais" }
+    },
+    {
+      "codigo": 410,
+      "apelido": "F&A Distribuidora de Produtos Alimentícios",
+      "endereco": {
+        "logradouro": "Rua Alcindo Vieira",
+        "numero": "250",
+        "bairro": "Barreiro",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": null,
+        "endereco_completo": "Rua Alcindo Vieira, 250 - Barreiro, Belo Horizonte - MG"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/fea.jpg", "alt": "F&A Distribuidora de Produtos Alimentícios" }
+    },
+    {
+      "codigo": 411,
+      "apelido": "Empório da Ritha",
+      "endereco": {
+        "logradouro": "Av. Prudente de Morais",
+        "numero": "578",
+        "bairro": "Cidade Jardim",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30380-002",
+        "endereco_completo": "Av. Prudente de Morais, 578 - Cidade Jardim, Belo Horizonte - MG, 30380-002"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/emporiodarita.jpg", "alt": "Empório da Ritha" }
+    },
+    {
+      "codigo": 412,
+      "apelido": "Paranaíba",
+      "endereco": {
+        "logradouro": "Av. Antônio Costa Ferreira",
+        "numero": "560",
+        "bairro": "Nacional",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "cep": "32185-718",
+        "endereco_completo": "Av. Antônio Costa Ferreira, 560 - Nacional, Contagem - MG, 32185-718"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/paranaiba.jpg", "alt": "Paranaíba" }
+    },
+    {
+      "codigo": 413,
+      "apelido": "Supermercado Pejoal",
+      "endereco": {
+        "logradouro": "Rua das Perpétuas",
+        "numero": "705",
+        "bairro": "Lindéia",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30690-270",
+        "endereco_completo": "Rua das Perpétuas, 705 - Lindéia, Belo Horizonte - MG, 30690-270"
+      },
+      "geolocalizacao": { "latitude": null, "longitude": null, "place_id": null },
+      "logo": { "url": "assets/images/lojas/pejoal.jpg", "alt": "Supermercado Pejoal" }
+    }
+  ]
+}
