@@ -1,0 +1,19 @@
+services:
+  localizador:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000"
+    env_file:
+      - .env
+    volumes:
+      # Persiste o JSON fonte e o banco SQLite fora do container,
+      # assim um rebuild da imagem não apaga os dados nem exige
+      # rodar importar/geocodificar de novo.
+      - ./data:/app/data
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.${COMPOSE_PROJECT_NAME}.rule=Host(`${SUBDOMAIN}.${TRAEFIK_HOST}`)
+      - traefik.http.routers.${COMPOSE_PROJECT_NAME}.entrypoints=websecure
+      - traefik.http.routers.${COMPOSE_PROJECT_NAME}.tls.certresolver=letsencrypt
+      - traefik.http.services.${COMPOSE_PROJECT_NAME}.loadbalancer.server.port=3000

@@ -1,0 +1,13 @@
+node_modules
+.env
+.git
+.gitignore
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+logs
+*.log
+README.md
+nginx.conf.example
+ecosystem.config.js
